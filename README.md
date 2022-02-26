@@ -7,7 +7,7 @@ Test function on portfolio of top 10 U.S. capitalization (as of February 2022).
 [Ex]. Output using script2.py
 
 
-![output](output.pdf)
+![screenshot](screenshot.png)
 
 
 Enjoy!
